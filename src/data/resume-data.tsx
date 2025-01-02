@@ -168,7 +168,7 @@ export const RESUME_DATA = {
         "TypeScript", 
         "Next.js"
       ],
-      description: "Memories dump platflorm for my personal use for my siblings.",
+      description: "Memories dump platflorm for my  use for my siblings.",
       logo: YearProgressLogo,
       link: {
         label: "memories.com",
